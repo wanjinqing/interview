@@ -9,6 +9,8 @@
 185.199.108.153 cchroot.github.io // 若加上上面一行还是无法访问，可以加上这行
 ```
 
+window 系统 host 文件路径为：`C:\Windows\System32\drivers\etc`
+
 ## 知识点文章推荐：
 
 [性能优化总结](https://cchroot.github.io/interview/pages/interview%20notes/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%80%BB%E7%BB%93.html#%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8C%87%E6%A0%87%E4%B8%8E%E6%B5%8B%E9%87%8F%E5%B7%A5%E5%85%B7)
